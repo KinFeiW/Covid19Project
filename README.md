@@ -70,11 +70,24 @@ From this line graph, we can see:
 From this scatter plot, we can see:
 
 1. In this scatter plot shown the relationship of the changes in 7-Days Avg cases and percentage of USA Population Vaccination.
-2. On 15-July-2021, the country achived 50% of it's ppopulation vaccinated.
-3. A negative slope trendline showing with each percentage increase, there will an approximate of 1433 7-Days AVG cases decrease.
+2. On 15-July-2021, the country achived 50% of its ppopulation vaccinated.
+3. A negative slope trendline showing with each percentage increase, there will be an approximately of 1433 7-Days AVG cases decrease.
 
 ![55perc Cases](https://user-images.githubusercontent.com/100673174/166889286-75337684-2b3f-4ab8-9c10-c3a221f0f4a1.png)
 
 From this scatter plot, we can see:
 
-1.
+1. On 9-Sept-2021, the country achived 55% of its ppopulation vaccinated.
+2. However, we can see that the trendline has changed from a negative slope to positive. Which could be due to the vaccine's effectiveness has wear off.
+
+![surge in cases during jan](https://user-images.githubusercontent.com/100673174/166891252-2cbc5294-f5cc-4160-999b-c7c4039c410c.png)
+
+From this scatter plot, we can see:
+
+1. Despite that the country has achived 63.5% of its population vaccinated, there still a high surge in positive cases during Mid-Jan due to Omicron variant.
+
+![cases plunge](https://user-images.githubusercontent.com/100673174/166892257-83071872-7eac-4c55-92e7-dba9525497fd.png)
+
+From this scatter plot, we can see:
+
+1. With increased in the percentage of population fully vaccinated and booster, the cases plunged and the trendline changed to negative slope.

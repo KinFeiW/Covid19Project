@@ -71,14 +71,15 @@ From this scatter plot, we can see:
 
 1. In this scatter plot shown the relationship of the changes in 7-Days Avg cases and percentage of USA Population Vaccination.
 2. On 14-May-2021, the country achived 40% of its population vaccinated.
-3. A negative slope trendline showing with each percentage increase, there will be an approximately of 3997 7-Days AVG cases decrease.
+3. A negative slope trendline showing with each percentage increase, there will be an approximately of 3997 △7-Days AVG cases decrease.
 
-![55perc Cases](https://user-images.githubusercontent.com/100673174/166889286-75337684-2b3f-4ab8-9c10-c3a221f0f4a1.png)
+![image](https://user-images.githubusercontent.com/100673174/167090264-0c943a97-eaaa-44e6-928f-0e13bfd7faa5.png)
 
 From this scatter plot, we can see:
 
 1. On 9-Sept-2021, the country achived 55% of its ppopulation vaccinated.
-2. However, we can see that the trendline has changed from a negative slope to positive. Which could be due to the vaccine's effectiveness has wear off.
+2. A cluster is formed above the trendline between 45%~55% of population vaccinated. This cluster could come from the first and second batch of people who took the vaccine and their vaccine's effectiveness has wore off.
+3. The trendline has changed from a negative slope to positive.
 
 ![surge in cases during jan](https://user-images.githubusercontent.com/100673174/166891252-2cbc5294-f5cc-4160-999b-c7c4039c410c.png)
 
@@ -98,6 +99,7 @@ This line graph shown:
 
 1. The 7-Days AVG and daily deaths cases of USA.
 2. With a positive slope trendline showing that with each day past there is a gain of ~1.06 7-Days AVG cases.
+3. High surge records happened on Jan to Feb of 2021 and 2022.
 
 ![40perce](https://user-images.githubusercontent.com/100673174/167079155-cb4d5f7a-8b8b-4e9f-a746-e153c1d3374c.png)
 
@@ -105,8 +107,30 @@ From this scatter plot, we can see:
 
 1. In this scatter plot shown the relationship of the changes in 7-Days Avg deaths and percentage of USA Population Vaccination.
 2. On 14-May-2021, the country achived 40% of its population vaccinated.
-3. A negative slope trendline showing with each percentage increase, there will be an approximately of 76.7 7-Days AVG death decrease.
+3. A negative slope trendline showing with each percentage increase, there will be an approximately of 76.7 △7-Days AVG death decrease.
 
 ![55percen](https://user-images.githubusercontent.com/100673174/167079532-1affef6c-2ae1-496e-8a6f-e8a80b60188b.png)
 
+From this scatter plot, we can see:
 
+1. On 9-Sept-2021, the country achived 55% of its population vaccinated.
+2. The trendline has changed from a negative slope to positive. 
+
+![image](https://user-images.githubusercontent.com/100673174/167096494-96d63f9b-60c4-42bd-b50f-f7aee9ce1f82.png)
+
+From this scatter plot, we can see:
+
+1. Between 58%~63.25%, there were 2 clusters with almost similar size and numbers which cause the trendline slope to be gentle slope with 1.45 △7-Days AVG death increase.
+
+
+![plunge in deaths](https://user-images.githubusercontent.com/100673174/167084154-07464ba9-0fa9-4cc1-a302-82318e0c5caa.png)
+
+From this scatter plot, we can see:
+
+1. With increased in the percentage of population fully vaccinated from 63% to 65% and booster, the cases plunged and the trendline changed to negative slope.
+
+**Conclusion**
+1. Both death and positive case scatter plots have similar trend at 40% & 55% population vaccinated. 55% of population vaccinated on 9-Sept-2021 but there was a cluster of positive △7-Days AVG death and positive cases which could be from people whom vaccine's effectiveness has wore off after 4~6 months from their second vaccination done during Jan-2021.
+2. Despite there was a high surge in the number of positive cases between Dec-2021 and Mid-Jan 2022, the △7-Days AVG death cases did not surge as drastically as △7-Days AVG positive cases. 
+3.  Vaccination shows help in controlling the number of positive cases but however when there is a new variant of covid virus can cause an increased of positive cases.
+4.  Comparing in Jan-2021 which has a low percentage of population vaccinated with the high percentage rate of vaccination in Jan-2022, the number of death cases did reduce ~20%.

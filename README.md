@@ -132,5 +132,5 @@ From this scatter plot, we can see:
 **Conclusion**
 1. Both death and positive case scatter plots have similar trend at 40% & 55% population vaccinated. 55% of population vaccinated on 9-Sept-2021 but there was a cluster of positive △7-Days AVG death and positive cases which could be from people whom vaccine's effectiveness has wore off after 4~6 months from their second vaccination done during Jan-2021.
 2. Despite there was a high surge in the number of positive cases between Dec-2021 and Mid-Jan 2022, the △7-Days AVG death cases did not surge as drastically as △7-Days AVG positive cases. 
-3.  Vaccination shows help in controlling the number of positive cases but however when there is a new variant of covid virus can cause an increased of positive cases.
+3.  New variant of covid virus can cause an increased of positive cases despite on the high percentage rate of vaccination in the country.
 4.  Comparing in Jan-2021 which has a low percentage of population vaccinated with the high percentage rate of vaccination in Jan-2022, the number of death cases did reduce ~20%.

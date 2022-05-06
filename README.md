@@ -65,13 +65,13 @@ From this line graph, we can see:
 
 2. A positive slope trendline showing that with each day past there is a gain of ~278 7-Days AVG cases.
 
-![50perc vacc Cases](https://user-images.githubusercontent.com/100673174/166880610-ab374366-2e70-4350-af5e-a5be6a2a5175.png)
+![40percen](https://user-images.githubusercontent.com/100673174/167079188-bfb95181-6c2f-417e-8e11-f98002a73f37.png)
 
 From this scatter plot, we can see:
 
 1. In this scatter plot shown the relationship of the changes in 7-Days Avg cases and percentage of USA Population Vaccination.
-2. On 15-July-2021, the country achived 50% of its ppopulation vaccinated.
-3. A negative slope trendline showing with each percentage increase, there will be an approximately of 1433 7-Days AVG cases decrease.
+2. On 14-May-2021, the country achived 40% of its population vaccinated.
+3. A negative slope trendline showing with each percentage increase, there will be an approximately of 3997 7-Days AVG cases decrease.
 
 ![55perc Cases](https://user-images.githubusercontent.com/100673174/166889286-75337684-2b3f-4ab8-9c10-c3a221f0f4a1.png)
 
@@ -90,4 +90,23 @@ From this scatter plot, we can see:
 
 From this scatter plot, we can see:
 
-1. With increased in the percentage of population fully vaccinated and booster, the cases plunged and the trendline changed to negative slope.
+1. With increased in the percentage of population fully vaccinated from 63% to 65% and booster, the cases plunged and the trendline changed to negative slope.
+
+![Screenshot (18)](https://user-images.githubusercontent.com/100673174/167077274-5ffd0648-813d-4416-ada7-1524890b0f44.png)
+
+This line graph shown:
+
+1. The 7-Days AVG and daily deaths cases of USA.
+2. With a positive slope trendline showing that with each day past there is a gain of ~1.06 7-Days AVG cases.
+
+![40perce](https://user-images.githubusercontent.com/100673174/167079155-cb4d5f7a-8b8b-4e9f-a746-e153c1d3374c.png)
+
+From this scatter plot, we can see:
+
+1. In this scatter plot shown the relationship of the changes in 7-Days Avg deaths and percentage of USA Population Vaccination.
+2. On 14-May-2021, the country achived 40% of its population vaccinated.
+3. A negative slope trendline showing with each percentage increase, there will be an approximately of 76.7 7-Days AVG death decrease.
+
+![55percen](https://user-images.githubusercontent.com/100673174/167079532-1affef6c-2ae1-496e-8a6f-e8a80b60188b.png)
+
+

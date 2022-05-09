@@ -1,6 +1,5 @@
 # Covid19Project
-In this case study, I will explore covid-19 data from to. Identify the trend between 
-vaccination with covid positive cases and death.
+In this case study, I will explore covid-19 data from 1-Jan-2020 to 3-March-2022. Identify the effectiveness of vaccination on covid positive cases and death.
 
 **Guiding questions**
 
@@ -19,7 +18,7 @@ Reliable-(MEDIUM) The data source from OWID sourced it's data from World Health 
 Original-(MEDIUM) Second Party Source: Our World in Data and the open-access data tools that make the online publication possible, 
 is funded through a mix of grants, sponsors and reader donations.
 
-Comprehensive-(HIGH) In this dataset it provide the numbers of daily vaccination, postive cases and death of each country.
+Comprehensive-(MEDIUM) In this dataset it provide the numbers of daily vaccination, postive cases and death of each country. But out of the daily cases and deaths, it did not show how many have been vaccinated.
 
 Current-(HIGH) The data are updated on daily basis.
 
